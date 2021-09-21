@@ -1,0 +1,23 @@
+{
+  "query":[],
+  "appointment": [
+    {
+      "firstname": "test",
+      "lastname": "test",
+      "age": 24,
+      "phonenumber": 9988776655,
+      "email": "test@test.com",
+      "streetaddress": "test",
+      "city": "test",
+      "state": "test",
+      "country": "india",
+      "pincode": 560058,
+      "trainerpreference": "Male Trainer",
+      "physiotherapist": "Yes",
+      "packages": "Weekly",
+      "inr": 2800,
+      "id": 1
+    }
+
+  ]
+}
